@@ -4,8 +4,6 @@
 If I'm not working on coding, ask me about Tabletop RPGs. I make funny voices for my friends. </h3>
 
 
-- 📫 How to reach me **pedigoa.was.here@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/austin_a_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="austin_a_p" height="30" width="40" /></a>
