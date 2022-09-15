@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Austin, or NegativeXP</h1>
+<h1 align="center">Hi 👋, I'm Austin, or Negative-XP</h1>
 <h3 align="center">A dedicated fullstack developer in the US of A.</h3>
 
 <p align="center"><img src ='https://www.codewars.com/users/Negative-XP/badges/large'></p>
