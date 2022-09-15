@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin, or NegativeXP</h1>
 <h3 align="center">A dedicated fullstack developer in the US of A.</h3>
 
-<p><img src ='https://www.codewars.com/users/Negative-XP/badges/large'></p>
+<p align="center"><img src ='https://www.codewars.com/users/Negative-XP/badges/large'></p>
 
 - 🔭 I’m currently working on [Gaming Shelf](https://github.com/Negative-XP/GamingShelfV1)
 
