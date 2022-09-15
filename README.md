@@ -18,4 +18,4 @@ If I'm not working on coding, ask me about Tabletop RPGs. I make funny voices fo
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=negative-xp&show_icons=true&theme=synthwave&locale=en" alt="negative-xp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=negative-xp&theme=dark" alt="negative-xp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=negative-xp&theme=dark" alt="negative-xp" style="text-align:center;" /></p>
