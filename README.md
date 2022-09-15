@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Austin, or NegativeXP</h1>
-<h3 align="center">A dedicated fullstack developer in the US of A.</h3>
+<h3 align="center">A dedicated fullstack developer, working on projects for clients and for community use. 
 
-<p align="left"> <a href="https://twitter.com/austin_a_p" target="blank"><img src="https://img.shields.io/twitter/follow/austin_a_p?logo=twitter&style=for-the-badge" alt="austin_a_p" /></a> </p>
+If I'm not working on coding, ask me about Tabletop RPGs. I make funny voices for my friends. </h3>
+
 
 - 📫 How to reach me **pedigoa.was.here@gmail.com**
 
