@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Gaming Shelf](https://github.com/Negative-XP/GamingShelfV1)
 
-- 🌱 I’m currently learning **Axios integration**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [austin-pedigo.com](austin-pedigo.com)
 
