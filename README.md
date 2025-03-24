@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin, or NotPositive-XP</h1>
 <h3 align="center">A dedicated fullstack developer in the US of A.</h3>
 
-<p align="center"><img src ='https://www.codewars.com/users/Negative-XP/badges/large'></p>
+<p align="center"><img src ='https://www.codewars.com/users/NotPositive-XP/badges/large'></p>
 
 - 🔭 I’m currently working on [Gaming Shelf](https://github.com/NotPositiveXP/GamingShelfV1)
 
@@ -21,6 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NotPositive-XP&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="notpositive-xp" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NotPositive-XP&theme=dracula&hide_border=false" alt="negative-xp" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NotPositive-XP&theme=dracula&hide_border=false" alt="notpositive-x" /></p><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPositive-XP&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="notpositive-xp" /></p>
