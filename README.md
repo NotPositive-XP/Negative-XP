@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at austin-pedigo.com
+- 👨‍💻 All of my projects are available at [austin-pedigo.com](https://austin-pedigo.com)
 
 - 💬 Ask me about **EJS and Javascript**
 
