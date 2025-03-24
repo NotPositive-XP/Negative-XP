@@ -3,11 +3,11 @@
 
 <p align="center"><img src ='https://www.codewars.com/users/NotPositive-XP/badges/large'></p>
 
-- 🔭 I’m currently working on [Gaming Shelf](https://github.com/NotPositiveXP/GamingShelfV1)
+- 🔭 I’m currently working on [Gaming Shelf](https://github.com/NotPositive-XP/GamingShelfV1)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [austin-pedigo.com](austin-pedigo.com)
+- 👨‍💻 All of my projects are available at austin-pedigo.com
 
 - 💬 Ask me about **EJS and Javascript**
 
