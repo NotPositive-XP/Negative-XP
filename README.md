@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NotPositive-XP&theme=dracula&hide_border=false" alt="negative-xp" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notpositive-xp&theme=dark" alt="notpositive-xp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotPositive-XP&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="notpositive-xp" /></p>
